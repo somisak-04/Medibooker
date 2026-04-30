@@ -1,5 +1,5 @@
-# Medibooker
-(Doctor Appointment Booking Website)
+# Doctor Appointment Booking Website
+
 ## Project Overview
 The Doctor Appointment Booking Website is a web application that allows users to book appointments with doctors, and enables doctors to manage their schedules by accepting or rejecting appointment requests. This application is built using the Spring framework and employs a microservices architecture.
 
@@ -35,6 +35,3 @@ The Doctor Appointment Booking Website is a web application that allows users to
 - **Notification Service:**
   - Sends email notifications for various events.
 
-Coordinates appointment scheduling and notifications.
-Notification Service:
-Sends email notifications for various events.
